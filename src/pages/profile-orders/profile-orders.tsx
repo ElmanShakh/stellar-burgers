@@ -2,8 +2,7 @@ import { ProfileOrdersUI } from '@ui-pages';
 import { TOrder } from '@utils-types';
 import { FC, useEffect } from 'react';
 import { AppDispatch, RootState } from '../../services/store/store';
-import { useDispatch } from 'react-redux';
-import { useSelector } from '../../services/store/store';
+import { useSelector, useDispatch } from '../../services/store/store';
 import {
   fetchOrdersHistory,
   orderHistorySelector
