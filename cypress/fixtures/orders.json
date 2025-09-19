@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "name": "Краторный space метеоритный бургер",
+    "order": {
+        "ingredients": [
+            {
+                "_id": "643d69a5c3f7b9001cfa093c",
+                "name": "Краторная булка N-200i",
+                "type": "bun",
+                "proteins": 80,
+                "fat": 24,
+                "carbohydrates": 53,
+                "calories": 420,
+                "price": 1255,
+                "image": "https://code.s3.yandex.net/react/code/bun-02.png",
+                "image_mobile": "https://code.s3.yandex.net/react/code/bun-02-mobile.png",
+                "image_large": "https://code.s3.yandex.net/react/code/bun-02-large.png",
+                "__v": 0
+            },
+            {
+                "_id": "643d69a5c3f7b9001cfa0940",
+                "name": "Говяжий метеорит (отбивная)",
+                "type": "main",
+                "proteins": 800,
+                "fat": 800,
+                "carbohydrates": 300,
+                "calories": 2674,
+                "price": 3000,
+                "image": "https://code.s3.yandex.net/react/code/meat-04.png",
+                "image_mobile": "https://code.s3.yandex.net/react/code/meat-04-mobile.png",
+                "image_large": "https://code.s3.yandex.net/react/code/meat-04-large.png",
+                "__v": 0
+            },
+            {
+                "_id": "643d69a5c3f7b9001cfa0943",
+                "name": "Соус фирменный Space Sauce",
+                "type": "sauce",
+                "proteins": 50,
+                "fat": 22,
+                "carbohydrates": 11,
+                "calories": 14,
+                "price": 80,
+                "image": "https://code.s3.yandex.net/react/code/sauce-04.png",
+                "image_mobile": "https://code.s3.yandex.net/react/code/sauce-04-mobile.png",
+                "image_large": "https://code.s3.yandex.net/react/code/sauce-04-large.png",
+                "__v": 0
+            },
+            {
+                "_id": "643d69a5c3f7b9001cfa093c",
+                "name": "Краторная булка N-200i",
+                "type": "bun",
+                "proteins": 80,
+                "fat": 24,
+                "carbohydrates": 53,
+                "calories": 420,
+                "price": 1255,
+                "image": "https://code.s3.yandex.net/react/code/bun-02.png",
+                "image_mobile": "https://code.s3.yandex.net/react/code/bun-02-mobile.png",
+                "image_large": "https://code.s3.yandex.net/react/code/bun-02-large.png",
+                "__v": 0
+            }
+        ],
+        "_id": "68c73210673086001ba88458",
+        "owner": {
+            "name": "Эл",
+            "email": "ela@mail.ru",
+            "createdAt": "2025-09-12T13:39:29.149Z",
+            "updatedAt": "2025-09-12T14:39:25.745Z"
+        },
+        "status": "done",
+        "name": "Краторный space метеоритный бургер",
+        "createdAt": "2025-09-14T21:22:24.166Z",
+        "updatedAt": "2025-09-14T21:22:25.236Z",
+        "number": 88712,
+        "price": 5590
+    }
+}
